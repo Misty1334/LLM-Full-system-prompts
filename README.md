@@ -1,4 +1,4 @@
-# CL4R1T4S: Full-system-prompts
+#  Full-system-prompts
 
 **SYSTEM PROMPT TRANSPARENCY FOR ALL**
 
@@ -6,7 +6,6 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Contributors](https://img.shields.io/github/contributors/oxbshw/Full-system-prompts)](https://github.com/oxbshw/Full-system-prompts/graphs/contributors)
-[![Twitter](https://img.shields.io/twitter/follow/elder_plinius?style=social)](https://twitter.com/elder_plinius)
 
 This repository contains a collection of full system prompts, guidelines, and tools from major AI models, including OpenAI, Google, Anthropic, xAI, Perplexity, and many more. Our goal is to bring transparency to the hidden instructions that shape AI behavior.
 
