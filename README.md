@@ -131,7 +131,7 @@ We welcome contributions from the transparency community! Here's how you can hel
 
 **Submission Methods:**
 1. **Pull Request:** Submit via GitHub PR with proper documentation
-2. **Direct Contact:** Reach out to [@elder_plinius](https://twitter.com/elder_plinius) on X or Discord
+2. **Direct Contact:** Reach out to [@Sayedevv_plinius](https://x.com/Sayedevv) on X or Discord
 3. **Team Contact:** Connect with Sayed Allam or project team members
 
 ### **📋 Contribution Guidelines**
@@ -155,8 +155,8 @@ We welcome contributions from the transparency community! Here's how you can hel
 Join the conversation and connect with other members of the AI transparency community:
 
 ### **💬 Communication Channels**
-- **Twitter/X:** [@elder_plinius](https://twitter.com/elder_plinius) - Follow for updates and discussions
-- **Discord:** Contact @elder_plinius for community server access
+- **Twitter/X:** [@Sayedevv_plinius](https://x.com/Sayedevv) - Follow for updates and discussions
+- **Discord:** Contact @Sayedevv_plinius for community server access
 - **GitHub Issues:** Use for technical discussions and feature requests
 
 ### **🤝 Community Guidelines**
